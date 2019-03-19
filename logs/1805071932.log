@@ -1,0 +1,7 @@
+2018-05-07 19:32:43,272-EngineLOG-INFO-you had select Chrome browser.
+2018-05-07 19:32:43,273-EngineLOG-INFO-The test server url is http://saas.ydm01.cn/
+2018-05-07 19:32:48,523-EngineLOG-INFO-Starting Chrome browser
+2018-05-07 19:32:52,701-EngineLOG-INFO-open url:http://saas.ydm01.cn/.
+2018-05-07 19:32:54,019-EngineLOG-INFO-zhe window max
+2018-05-07 19:32:54,022-EngineLOG-INFO-set implicitly wait 30 seconds
+2018-05-07 19:33:00,773-Baselog-INFO-点击了一下元素
