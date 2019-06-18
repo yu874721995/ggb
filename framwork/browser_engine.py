@@ -14,7 +14,7 @@ logger = Logger(logger="EngineLOG").getlog()
 class BrowserEngine(object):
     #浏览器的路径，因为只有谷歌的weidriver，所以只加了一个
     dir = os.path.dirname(os.path.abspath('.'))
-    chrome_driver_path = dir + '/tools/chromedriver.exe'
+    chrome_driver_path = dir + '/tools/chromedriver74.0.3.exe'
         #初始化这个类
     def __init__(self,driver):
         self.indexelement = indexElement(self)
