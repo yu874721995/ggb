@@ -1,0 +1,42 @@
+2021-02-04 19:36:19,919-Baselog-INFO-com.android.permissioncontroller:id/permission_allow_button
+2021-02-04 19:36:20,552-Baselog-INFO-com.dengta.date:id/btn_user_privacy_policy_summary_agree
+2021-02-04 19:36:21,487-Baselog-INFO-com.dengta.date:id/ll_login_select_cellphone_login_register
+2021-02-04 19:36:23,589-Baselog-INFO-com.dengta.date:id/btn_login_sure
+2021-02-04 19:36:25,374-Baselog-INFO-com.dengta.date:id/btn_inviteCode_cancel
+2021-02-04 19:36:26,018-Baselog-INFO-com.dengta.date:id/iv_register_sex_girl
+2021-02-04 19:36:27,419-Baselog-INFO-com.android.packageinstaller:id/permission_allow_button
+2021-02-04 19:36:31,208-Baselog-INFO-com.dengta.date:id/btn_user_privacy_policy_summary_agree
+2021-02-04 19:36:35,159-Baselog-INFO-com.dengta.date:id/btn_register_sex_sure
+2021-02-04 19:36:36,296-Baselog-INFO-com.dengta.date:id/ll_register_info_nickname
+2021-02-04 19:36:37,551-Baselog-INFO-com.dengta.date:id/iv_register_avatar_set_avatar
+2021-02-04 19:36:38,235-Baselog-INFO-com.dengta.date:id/tv_select_avatar_select_from_album
+2021-02-04 19:36:38,969-Baselog-INFO-com.android.permissioncontroller:id/permission_allow_button
+2021-02-04 19:36:39,719-Baselog-INFO-com.android.permissioncontroller:id/permission_allow_button
+2021-02-04 19:36:40,640-Baselog-INFO-com.dengta.date:id/tvCheck
+2021-02-04 19:36:41,591-Baselog-INFO-com.dengta.date:id/picture_send
+2021-02-04 19:36:42,734-Baselog-INFO-com.dengta.date:id/menu_crop
+2021-02-04 19:36:43,631-Baselog-INFO-com.dengta.date:id/btn_register_info_next_step
+2021-02-04 19:36:44,775-Baselog-INFO-com.dengta.date:id/btn_sign_in
+2021-02-04 19:36:47,079-Baselog-INFO-com.dengta.date:id/btn_confirm
+2021-02-04 19:36:47,843-Baselog-INFO-com.dengta.date:id/ll_login_select_cellphone_login_register
+2021-02-04 19:36:50,380-Baselog-INFO-com.dengta.date:id/btn_login_sure
+2021-02-04 19:36:51,559-Baselog-INFO-com.dengta.date:id/item_short_video_avatar_civ
+2021-02-04 19:37:04,700-Baselog-INFO-截图并保存至：F:\appium_jskj/screenshots/21020419021612438622.7464.png
+2021-02-04 19:37:04,701-Baselog-ERROR-Message: None
+
+2021-02-04 19:37:05,925-Baselog-INFO-截图并保存至：F:\appium_jskj/screenshots/21020419021612438624.7014.png
+2021-02-04 19:37:05,925-Baselog-INFO-com.dengta.date:id/simpleDraweeView_user_info_avatar
+2021-02-04 19:37:18,743-Baselog-INFO-截图并保存至：F:\appium_jskj/screenshots/21020419021612438637.4074001.png
+2021-02-04 19:37:18,743-Baselog-ERROR-Message: None
+
+2021-02-04 19:37:19,725-Baselog-INFO-截图并保存至：F:\appium_jskj/screenshots/21020419021612438638.7434.png
+2021-02-04 19:37:21,080-Baselog-INFO-com.dengta.date:id/frag_user_info_guardian_tv
+2021-02-04 19:37:34,009-Baselog-INFO-截图并保存至：F:\appium_jskj/screenshots/21020419021612438651.8524.png
+2021-02-04 19:37:34,009-Baselog-ERROR-Message: None
+
+2021-02-04 19:37:36,285-Baselog-INFO-截图并保存至：F:\appium_jskj/screenshots/21020419021612438654.0094001.png
+2021-02-04 19:37:36,285-Baselog-INFO-com.dengta.date:id/iv_title_common_back
+2021-02-04 19:37:36,975-Baselog-ERROR-Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+2021-02-04 19:37:37,121-Baselog-INFO-关闭app
+2021-02-04 19:37:37,957-Baselog-INFO-关闭app

@@ -1,0 +1,13 @@
+2021-02-02 14:15:49,569-Baselog-INFO-class_name=>android.widget.Button
+2021-02-02 14:15:52,605-Baselog-ERROR-Message: 
+
+2021-02-02 14:15:53,297-Baselog-INFO-截图并保存至：F:\appium_jskj/screenshots/21020214021612246552.6052.png
+2021-02-02 14:15:53,298-Baselog-INFO-com.dengta.date:id/btn_user_privacy_policy_summary_agree
+2021-02-02 14:15:57,347-Baselog-ERROR-Message: 
+
+2021-02-02 14:15:58,023-Baselog-INFO-截图并保存至：F:\appium_jskj/screenshots/21020214021612246557.3472.png
+2021-02-02 14:15:58,023-Baselog-INFO-com.dengta.date:id/ll_login_select_cellphone_login_register
+2021-02-02 14:16:02,025-Baselog-ERROR-Message: 
+
+2021-02-02 14:16:02,711-Baselog-INFO-截图并保存至：F:\appium_jskj/screenshots/21020214021612246562.0252001.png
+2021-02-02 14:16:06,852-Baselog-INFO-关闭app

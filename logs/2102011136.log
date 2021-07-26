@@ -1,0 +1,24 @@
+2021-02-01 11:36:15,710-Baselog-INFO-com.android.permissioncontroller:id/permission_allow_button
+2021-02-01 11:36:16,303-Baselog-INFO-com.dengta.date:id/btn_user_privacy_policy_summary_agree
+2021-02-01 11:36:17,174-Baselog-INFO-com.dengta.date:id/ll_login_select_cellphone_login_register
+2021-02-01 11:36:19,703-Baselog-INFO-com.dengta.date:id/btn_login_sure
+2021-02-01 11:36:20,993-Baselog-INFO-com.dengta.date:id/btn_inviteCode_cancel
+2021-02-01 11:36:21,137-Baselog-INFO-com.dengta.date:id/iv_register_sex_girl
+2021-02-01 11:36:22,388-Baselog-INFO-com.dengta.date:id/btn_register_sex_sure
+2021-02-01 11:36:25,169-Baselog-INFO-com.dengta.date:id/ll_register_info_nickname
+2021-02-01 11:36:25,907-Baselog-INFO-com.dengta.date:id/iv_register_avatar_set_avatar
+2021-02-01 11:36:27,145-Baselog-INFO-com.dengta.date:id/tv_select_avatar_select_from_album
+2021-02-01 11:36:28,448-Baselog-INFO-com.android.permissioncontroller:id/permission_allow_button
+2021-02-01 11:36:29,716-Baselog-INFO-com.android.permissioncontroller:id/permission_allow_button
+2021-02-01 11:36:30,639-Baselog-INFO-com.dengta.date:id/tvCheck
+2021-02-01 11:36:31,622-Baselog-INFO-com.dengta.date:id/picture_send
+2021-02-01 11:36:32,760-Baselog-INFO-com.dengta.date:id/menu_crop
+2021-02-01 11:36:34,193-Baselog-INFO-com.dengta.date:id/btn_register_info_next_step
+2021-02-01 11:36:35,382-Baselog-INFO-com.dengta.date:id/btn_sign_in
+2021-02-01 11:36:37,635-Baselog-INFO-com.dengta.date:id/btn_confirm
+2021-02-01 11:36:38,336-Baselog-INFO-com.dengta.date:id/item_short_video_avatar_civ
+2021-02-01 11:36:39,004-Baselog-INFO-com.dengta.date:id/simpleDraweeView_user_info_avatar
+2021-02-01 11:36:40,141-Baselog-INFO-com.dengta.date:id/frag_user_info_guardian_tv
+2021-02-01 11:36:42,888-Baselog-ERROR-Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+2021-02-01 11:36:42,947-Baselog-INFO-¹Ø±Õapp

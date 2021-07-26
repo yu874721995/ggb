@@ -1,0 +1,6 @@
+2021-02-01 11:02:29,631-Baselog-ERROR-Message: 
+
+2021-02-01 11:02:30,182-Baselog-INFO-截图并保存至：F:\appium_jskj/screenshots/21020111021612148549.632.png
+2021-02-01 11:02:30,849-Baselog-ERROR-Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+2021-02-01 11:02:30,913-Baselog-INFO-关闭app

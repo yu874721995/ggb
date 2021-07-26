@@ -1,0 +1,35 @@
+2021-02-01 11:38:08,312-Baselog-INFO-com.android.permissioncontroller:id/permission_allow_button
+2021-02-01 11:38:08,897-Baselog-INFO-com.dengta.date:id/btn_user_privacy_policy_summary_agree
+2021-02-01 11:38:09,764-Baselog-INFO-com.dengta.date:id/ll_login_select_cellphone_login_register
+2021-02-01 11:38:12,465-Baselog-INFO-com.dengta.date:id/btn_login_sure
+2021-02-01 11:38:13,774-Baselog-INFO-com.dengta.date:id/btn_inviteCode_cancel
+2021-02-01 11:38:13,950-Baselog-INFO-com.dengta.date:id/iv_register_sex_girl
+2021-02-01 11:38:15,262-Baselog-INFO-com.dengta.date:id/btn_register_sex_sure
+2021-02-01 11:38:17,506-Baselog-INFO-com.dengta.date:id/ll_register_info_nickname
+2021-02-01 11:38:18,235-Baselog-INFO-com.dengta.date:id/iv_register_avatar_set_avatar
+2021-02-01 11:38:18,910-Baselog-INFO-com.dengta.date:id/tv_select_avatar_select_from_album
+2021-02-01 11:38:19,689-Baselog-INFO-com.android.permissioncontroller:id/permission_allow_button
+2021-02-01 11:38:20,971-Baselog-INFO-com.android.permissioncontroller:id/permission_allow_button
+2021-02-01 11:38:21,895-Baselog-INFO-com.dengta.date:id/tvCheck
+2021-02-01 11:38:23,467-Baselog-INFO-com.dengta.date:id/picture_send
+2021-02-01 11:38:24,635-Baselog-INFO-com.dengta.date:id/menu_crop
+2021-02-01 11:38:25,552-Baselog-INFO-com.dengta.date:id/btn_register_info_next_step
+2021-02-01 11:38:26,723-Baselog-INFO-com.dengta.date:id/btn_sign_in
+2021-02-01 11:38:29,039-Baselog-INFO-com.dengta.date:id/btn_confirm
+2021-02-01 11:38:29,744-Baselog-INFO-com.dengta.date:id/item_short_video_avatar_civ
+2021-02-01 11:38:30,411-Baselog-INFO-com.dengta.date:id/simpleDraweeView_user_info_avatar
+2021-02-01 11:38:32,435-Baselog-INFO-com.dengta.date:id/frag_user_info_guardian_tv
+2021-02-01 11:38:32,916-Baselog-INFO-com.dengta.date:id/iv_title_common_back
+2021-02-01 11:38:33,720-Baselog-INFO-com.dengta.date:id/frag_detail_bottom_attention_ll
+2021-02-01 11:38:35,775-Baselog-INFO-com.dengta.date:id/tv_commit
+2021-02-01 11:38:36,684-Baselog-INFO-com.dengta.date:id/tv_commit
+2021-02-01 11:38:38,526-Baselog-INFO-com.dengta.date:id/tv_commit
+2021-02-01 11:38:39,249-Baselog-INFO-com.dengta.date:id/tv_commit
+2021-02-01 11:38:40,488-Baselog-INFO-com.dengta.date:id/tv_commit
+2021-02-01 11:38:40,569-Baselog-INFO-com.dengta.date:id/frag_user_info_guardian_tv
+2021-02-01 11:38:41,256-Baselog-INFO-com.dengta.date:id/iv_title_common_back
+2021-02-01 11:38:42,060-Baselog-INFO-com.dengta.date:id/frag_user_detail_followed_iv
+2021-02-01 11:38:43,179-Baselog-INFO-com.dengta.date:id/dialog_comm_confirm_tv
+2021-02-01 11:38:44,089-Baselog-ERROR-Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+
+2021-02-01 11:38:44,180-Baselog-INFO-¹Ø±Õapp

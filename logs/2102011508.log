@@ -1,0 +1,58 @@
+2021-02-01 15:08:15,003-Baselog-INFO-com.android.permissioncontroller:id/permission_allow_button
+2021-02-01 15:08:15,590-Baselog-INFO-com.dengta.date:id/btn_user_privacy_policy_summary_agree
+2021-02-01 15:08:16,979-Baselog-INFO-com.dengta.date:id/ll_login_select_cellphone_login_register
+2021-02-01 15:08:19,579-Baselog-INFO-com.dengta.date:id/btn_login_sure
+2021-02-01 15:08:20,884-Baselog-INFO-com.dengta.date:id/btn_inviteCode_cancel
+2021-02-01 15:08:21,094-Baselog-INFO-com.dengta.date:id/iv_register_sex_girl
+2021-02-01 15:08:22,782-Baselog-INFO-com.dengta.date:id/btn_register_sex_sure
+2021-02-01 15:08:24,479-Baselog-INFO-com.dengta.date:id/ll_register_info_nickname
+2021-02-01 15:08:25,188-Baselog-INFO-com.dengta.date:id/iv_register_avatar_set_avatar
+2021-02-01 15:08:25,878-Baselog-INFO-com.dengta.date:id/tv_select_avatar_select_from_album
+2021-02-01 15:08:26,655-Baselog-INFO-com.android.permissioncontroller:id/permission_allow_button
+2021-02-01 15:08:27,907-Baselog-INFO-com.android.permissioncontroller:id/permission_allow_button
+2021-02-01 15:08:28,832-Baselog-INFO-com.dengta.date:id/tvCheck
+2021-02-01 15:08:30,350-Baselog-INFO-com.dengta.date:id/picture_send
+2021-02-01 15:08:31,523-Baselog-INFO-com.dengta.date:id/menu_crop
+2021-02-01 15:08:32,892-Baselog-INFO-com.dengta.date:id/btn_register_info_next_step
+2021-02-01 15:08:34,078-Baselog-INFO-com.dengta.date:id/btn_sign_in
+2021-02-01 15:08:37,236-Baselog-INFO-com.dengta.date:id/btn_confirm
+2021-02-01 15:08:37,352-Baselog-INFO-com.dengta.date:id/item_short_video_avatar_civ
+2021-02-01 15:08:37,986-Baselog-INFO-com.dengta.date:id/simpleDraweeView_user_info_avatar
+2021-02-01 15:08:40,207-Baselog-INFO-com.dengta.date:id/frag_user_info_guardian_tv
+2021-02-01 15:08:43,980-Baselog-ERROR-Message: 
+
+2021-02-01 15:08:44,876-Baselog-INFO-截图并保存至：F:\appium_jskj/screenshots/21020115021612163323.981.png
+2021-02-01 15:08:44,876-Baselog-INFO-com.dengta.date:id/iv_title_common_back
+2021-02-01 15:08:49,009-Baselog-ERROR-Message: 
+
+2021-02-01 15:08:49,967-Baselog-INFO-截图并保存至：F:\appium_jskj/screenshots/21020115021612163329.01.png
+2021-02-01 15:08:49,967-Baselog-INFO-com.dengta.date:id/frag_detail_bottom_attention_ll
+2021-02-01 15:08:51,083-Baselog-INFO-com.dengta.date:id/tv_commit
+2021-02-01 15:08:51,855-Baselog-INFO-com.dengta.date:id/tv_commit
+2021-02-01 15:08:53,457-Baselog-INFO-com.dengta.date:id/tv_commit
+2021-02-01 15:08:54,190-Baselog-INFO-com.dengta.date:id/tv_commit
+2021-02-01 15:08:54,956-Baselog-INFO-com.dengta.date:id/tv_commit
+2021-02-01 15:08:55,674-Baselog-INFO-com.dengta.date:id/frag_user_info_guardian_tv
+2021-02-01 15:08:56,395-Baselog-INFO-com.dengta.date:id/iv_title_common_back
+2021-02-01 15:08:57,197-Baselog-INFO-com.dengta.date:id/frag_user_detail_followed_iv
+2021-02-01 15:08:58,328-Baselog-INFO-com.dengta.date:id/dialog_comm_confirm_tv
+2021-02-01 15:09:00,297-Baselog-INFO-com.dengta.date:id/home_page_video_search_iv
+2021-02-01 15:09:01,862-Baselog-INFO-com.dengta.date:id/tv_video_search_search
+2021-02-01 15:09:03,713-Baselog-INFO-com.dengta.date:id/frag_short_video_video_back_iv
+2021-02-01 15:09:05,562-Baselog-INFO-com.dengta.date:id/tv_video_search_type
+2021-02-01 15:09:06,734-Baselog-INFO-com.dengta.date:id/tv_video_search_title
+2021-02-01 15:09:07,368-Baselog-INFO-com.dengta.date:id/tv_video_search_search
+2021-02-01 15:09:09,273-Baselog-INFO-com.dengta.date:id/iv_item_user_detail_short_video_pic
+2021-02-01 15:09:09,407-Baselog-INFO-com.dengta.date:id/tem_short_video_like_svgiv
+2021-02-01 15:09:12,961-Baselog-ERROR-Message: 
+
+2021-02-01 15:09:15,080-Baselog-INFO-截图并保存至：F:\appium_jskj/screenshots/21020115021612163352.962.png
+2021-02-01 15:09:15,080-Baselog-INFO-com.dengta.date:id/item_short_video_comment_tv
+2021-02-01 15:09:18,784-Baselog-ERROR-Message: 
+
+2021-02-01 15:09:21,040-Baselog-INFO-截图并保存至：F:\appium_jskj/screenshots/21020115021612163358.7849998.png
+2021-02-01 15:09:21,040-Baselog-INFO-com.dengta.date:id/layout_comment_input_tv
+2021-02-01 15:09:25,286-Baselog-ERROR-Message: 
+
+2021-02-01 15:09:28,150-Baselog-INFO-截图并保存至：F:\appium_jskj/screenshots/21020115021612163365.2870002.png
+2021-02-01 15:09:32,236-Baselog-INFO-关闭app

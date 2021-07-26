@@ -5,7 +5,7 @@
 import time
 import os.path
 from selenium.common.exceptions import NoSuchElementException
-from framwork.logger import Logger
+from .logger import Logger
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
@@ -56,14 +56,15 @@ class BassPage(object):
             self.get_window()
 
         #定位
-    def find_element(self,selector):
+    def app_find_element(self,selector):
         element = ''
         if '=>' not in selector:
             return self.driver.find_element_by_id(selector)
         selector_by = selector.split('=>')[0]
         selector_value = selector.split('=>')[1]
+        print('select_by',selector_by,'select_id',selector_value)
         #id
-        if selector_by == 'i' or selector == 'id':
+        if selector_by == 'i' or selector_by == 'id':
             try:
                 element = self.driver.find_element_by_id(selector_value)
                 mylog.info(u'通过%s定位到了%s这个元素'% (selector_by,selector_value))
@@ -93,7 +94,6 @@ class BassPage(object):
             except NoSuchElementException as e:
                 mylog.error(e)
                 self.get_window()
-
         elif selector_by == 's' or selector_by == 'selector_selector':
             self.driver.find_element_by_css_selector(selector_value)
         else:

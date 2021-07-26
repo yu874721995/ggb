@@ -32,14 +32,23 @@ class BrowserEngine(object):
         browser = config.get('browserType','browserName')
         logger.info('you had select %s browser.' % browser)
         #读取配置文件中的网址
-        url = config.get('testServer','URL')
+        url = config.get('Host','test_host')
         logger.info('The test server url is %s' %url)
         #打开浏览器
         if browser == "Firefox":
             driver = webdriver.Firefox()
             logger.info('Starting Firefox browser')
         elif browser == "Chrome":
-            driver = webdriver.Chrome(self.chrome_driver_path)
+            option = webdriver.ChromeOptions()
+            option.add_argument('disable-infobars')
+            prefs = {
+                'profile.default_content_setting_values': {
+                    'notifications': 2
+                }
+            }
+            option.add_experimental_option('prefs', prefs)
+            #option.add_argument('headless')
+            driver = webdriver.Chrome(executable_path=self.chrome_driver_path,chrome_options = option,desired_capabilities = None)
             logger.info('Starting Chrome browser')
         elif browser == 'IE':
             driver = webdriver.Ie()
@@ -49,11 +58,11 @@ class BrowserEngine(object):
         logger.info("open url:%s." %url)
         driver.maximize_window()
         logger.info("zhe window max")
-        driver.implicitly_wait(1000)
+        driver.implicitly_wait(3000)
         logger.info("set implicitly wait 30 seconds")
-        driver.find_element_by_xpath(self.indexelement.username).send_keys('13530852030')
-        driver.find_element_by_xpath(self.indexelement.password).send_keys('123456')
-        driver.find_element_by_xpath(self.indexelement.submit).click()
+        # driver.find_element_by_xpath(self.indexelement.username).send_keys('13530852030')
+        # driver.find_element_by_xpath(self.indexelement.password).send_keys('123456')
+        # driver.find_element_by_xpath(self.indexelement.submit).click()
         return driver
 
 

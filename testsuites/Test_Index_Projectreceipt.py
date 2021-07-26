@@ -11,11 +11,11 @@ from framwork.base_page import BassPage
 from framwork.browser_engine import BrowserEngine
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium import webdriver
-import unittest2,time
+import unittest,time
 import requests
 
 
-class Test_Index_projectreceipt(unittest2.TestCase):
+class Test_Index_projectreceipt(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls):
@@ -226,5 +226,5 @@ class Test_Index_projectreceipt(unittest2.TestCase):
             print ('Test fail', e)
 
 if __name__ == "__main__":
-    unittest2.main()
+    unittest.main()
 
