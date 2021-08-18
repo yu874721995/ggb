@@ -314,19 +314,7 @@ class Test_Index_projectreceipt(unittest.TestCase):
         cls.app.click('com.dengta.date:id/tv_personal_live_base_alert_dialog_positive')
         cls.app.click('com.dengta.date:id/iv_live_top_close')
         cls.app2.click('com.dengta.date:id/iv_live_top_close')
-
-
-
-
         time.sleep(10)
-
-
-
-
-
-
-
-
 
 if __name__ == "__main__":
     unittest.main()
